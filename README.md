@@ -9,7 +9,7 @@
 -->
 
 - 😃 I'm Dev!
-- 🔭 I’m currently working on Node.js and Backend Development
+- 🔭 I’m currently working on Node.js and Backend Development.
 - 🌱 I’m currently learning Machine Learning and how to integrate it into web application.
 - 💬 Ask me about health related tips and tech stuff
 - 📫 Reach me @: [LinkedIn](https://www.linkedin.com/in/dev-parmar/), [gmail](mailto:devparmar37@gmail.com)
