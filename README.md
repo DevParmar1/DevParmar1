@@ -5,7 +5,7 @@
 </div>
 
 <!--
-**DevParmar1/Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevParmar1/DevParmar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - 😃 I'm Dev!
