@@ -12,6 +12,7 @@
 - 🔭 I’m currently working on Node.js and Backend Development.
 - 🏄‍♂️ I’m currently diving deep into Machine Learning Algorithms & Data Science.
 - 💬 Ask me about health related tips and tech stuff
+- 👨‍💻 Kaggle Notebooks @: [Kaggle](https://www.kaggle.com/devparmar1/code)
 - 📫 Reach me @: [LinkedIn](https://www.linkedin.com/in/dev-parmar/), [gmail](mailto:devparmar37@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It's Impossible to Hum While You Hold Your Nose. Try that xD
