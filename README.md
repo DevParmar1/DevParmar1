@@ -25,6 +25,8 @@
 
 - 👨‍💻 All of my projects are available at [github/DevParmar1](https://github.com/DevParmar1)
 
+- 📘 Kaggle Notebooks at [kaggle/devparmar1](https://www.kaggle.com/devparmar1/code?scroll=true) 
+
 - 💬 Ask me about **Node, Data-Science Frameworks & Maths**
 
 - 📫 How to reach me **devparmar37@gmail.com**
@@ -35,7 +37,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dev-parmar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="Dev Parmar" height="30" width="40" /></a>
+<a href="https://dev-parmar.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="Dev Parmar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dev-parmar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dev Parmar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/parmar.devraj.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="DevParmar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/firexfist/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="DevParmar" height="30" width="40" /></a>
