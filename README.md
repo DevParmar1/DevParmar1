@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **ML Algorithms, Computer Vision, MLOps +100 other things**
 
-- 👯 I’m looking to collaborate on **ML/Ai Projects**
+- 👯 I’m looking to collaborate on **ML/AI Projects**
 
 - 🤝 I’m looking for help with **DSA**
 
@@ -27,7 +27,7 @@
 
 - 📘 Kaggle Notebooks at [kaggle/devparmar1](https://www.kaggle.com/devparmar1/code?scroll=true) 
 
-- 💬 Ask me about **Node, Data-Science Frameworks & Maths**
+- 💬 Ask me about **Node.js, Data-Science Frameworks & Maths**
 
 - 📫 How to reach me **devparmar37@gmail.com**
 
