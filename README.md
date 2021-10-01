@@ -36,10 +36,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sodanirghuraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghusodani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raghu-raj-sodani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghu-raj-sodani" height="30" width="40" /></a>
-<a href="https://fb.com/raghusodani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raghusodani" height="30" width="40" /></a>
-<a href="https://instagram.com/sodaniraghu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raghusodani" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/raghusodani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raghusodani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dev-parmar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dev Parmar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/parmar.devraj.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="DevParmar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/firexfist/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="DevParmar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/devparmar_007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="DevParmar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
