@@ -65,9 +65,5 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=DevParmar1&theme=dark&hide_border=true" width = 400>
   
 </p>
-<p align="center">
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DevParmar1.DevParmar1)
-</p>
 
 
