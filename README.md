@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **devparmar37@gmail.com**
 
-- 📄 Know about my experiences, find my resume [here](https://drive.google.com/file/d/1MmkId8u8OQGPQFEsYcG7gwd1B3aN08ev/view?usp=sharing)
+- 📄 Know about my experiences, find my resume [here](https://drive.google.com/file/d/1RIcnQwX0HHAHOlwOiTWUAlDHpBOosBF1/view?usp=sharing)
 
 - ⚡ Fun fact **I know its crazy but one thing on my bucket list is to SKYDVE from near-space**
 
