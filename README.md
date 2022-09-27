@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dev Parmar</h1>
-<h3 align="center">Prefinal year UG | Full Stack Developer | Deep Learning Enthusiast</h3>
+<h3 align="center">Final year UG | Full Stack Developer | Deep Learning Enthusiast</h3>
 
 <div align='center'>
 <img src='gif/dev2.gif' alt='gif'></img>
